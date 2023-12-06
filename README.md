@@ -1,5 +1,3 @@
-# GARBO
-
 # GARBO (Garbage Organizer): Your Future Solution to Indonesia Emas 2045
 
 ## Team ID		: CH2-PS535
